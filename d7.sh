@@ -145,7 +145,7 @@ wget -O hapus-user "https://raw.githubusercontent.com/sherlock213/vps-configurat
 wget -O cek "https://raw.githubusercontent.com/sherlock213/vps-configuration/master/cek.sh"
 wget -O member "https://raw.githubusercontent.com/sherlock213/vps-configuration/master/member.sh"
 wget -O resv "https://raw.githubusercontent.com/sherlock213/vps-configuration/master/resv.sh"
-wget -O tes-speed"https://raw.githubusercontent.com/ForNesiaFreak/FNS_Debian7/fornesia.com/null/speedtest_cli.py"
+wget -O tes-speed "https://raw.githubusercontent.com/ForNesiaFreak/FNS_Debian7/fornesia.com/null/speedtest_cli.py"
 wget -O info "https://raw.githubusercontent.com/sherlock213/vps-configuration/master/info.sh"
 wget -O about "https://raw.githubusercontent.com/sherlock213/vps-configuration/master/about.sh"
 echo "0 0 * * * root /usr/bin/reboot" > /etc/cron.d/reboot
