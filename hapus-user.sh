@@ -4,4 +4,4 @@
 
 read -p "Nama user SSH yang mau dihapus : " Nama
 
-userdel -r $Nama
+userdel $Nama
