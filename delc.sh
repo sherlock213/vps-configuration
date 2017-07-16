@@ -1,3 +1,4 @@
+cd /usr/bin
 chmod -x menu
 chmod -x usernew
 chmod -x trial
@@ -20,4 +21,5 @@ rm speedtest
 rm info
 rm about
 #fnsh
+cd
 rm -f /root/delc.sh
